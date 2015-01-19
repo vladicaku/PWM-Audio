@@ -1,5 +1,6 @@
 # PWM-Audio with PIC
 Play audio files with digital ouput.
+Technique: Pulse Width Modulation (PWM)
 
 ## Software Specs
 - MikroElektronika MikroC for PIC
