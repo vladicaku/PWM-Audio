@@ -2,6 +2,8 @@
 Play audio files with digital ouput.
 Technique: Pulse Width Modulation (PWM).
 
+[YouTube video](http://www.youtube.com/watch?v=wtK47wF64pY)
+
 ## Software Specs
 - MikroElektronika MikroC for PIC
 - Microsoft Visual Studio 2012 - C#
