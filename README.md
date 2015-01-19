@@ -4,7 +4,7 @@ Play audio files with digital ouput.
 ## Software Specs
 - MikroElektronika MikroC for PIC
 - Microsoft Visual Studio 2012 - C#
-- Net Framework 4.5 
+- .Net Framework 4.5 
 
 ## Hardware Specs
 - Development board: EasyPIC6 by MikroElektronika
